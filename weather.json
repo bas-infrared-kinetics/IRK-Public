@@ -1,5 +1,5 @@
 {
-  "weather": {
+  "WeatherState": {
     "CloudCoverage": 2.5,
     "Rain": 0.0,
     "Snow": 0.0,
@@ -8,7 +8,7 @@
     "Fog": 1.0,
     "Dust": 0.0
   },
-  "sky": {
+  "SkyState": {
     "TimeOfDay": 1200.0
   }
 }
