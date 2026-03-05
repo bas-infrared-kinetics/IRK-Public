@@ -1,13 +1,12 @@
 {
   "WeatherState": {
-    "CloudCoverage": 3.0,
-    "Rain": 0.0,
+    "CloudCoverage": 5.0,
+    "Rain": 3.0,
     "Snow": 0.0,
     "Thunder": 0.0,
     "WindIntensity": 4.0,
     "Fog": 1.0,
-    "Dust": 0.0,
-    "NonExistant": 72.0
+    "Dust": 0.0
   },
   "SkyState": {
     "TimeOfDay": 1200.0
