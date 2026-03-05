@@ -1,7 +1,7 @@
 {
   "WeatherState": {
-    "CloudCoverage": 2.5,
-    "Rain": 0.0,
+    "CloudCoverage": 10.0,
+    "Rain": 5.0,
     "Snow": 0.0,
     "Thunder": 0.0,
     "WindIntensity": 4.0,
