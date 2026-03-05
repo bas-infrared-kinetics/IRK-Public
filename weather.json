@@ -1,1 +1,14 @@
-test
+{
+  "weather": {
+    "CloudCoverage": 2.5,
+    "Rain": 0.0,
+    "Snow": 0.0,
+    "Thunder": 0.0,
+    "WindIntensity": 4.0,
+    "Fog": 1.0,
+    "Dust": 0.0
+  },
+  "sky": {
+    "TimeOfDay": 1200.0
+  }
+}
